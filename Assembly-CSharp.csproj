@@ -56,6 +56,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\GradientColor.cs" />
      <Compile Include="Assets\Scripts\ProcessAudioData.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/ctsalidis/Desktop/Audio Processing/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
