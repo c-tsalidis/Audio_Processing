@@ -17,6 +17,7 @@ public class GradientColor : MonoBehaviour {
         groundMaterial = ground.GetComponent<Renderer>().material;
     }
 
+    /*
     void Update() {
         i += Time.deltaTime * rate;
         newColor = Color.Lerp(startingColor, endingColor, i);
@@ -28,4 +29,5 @@ public class GradientColor : MonoBehaviour {
             endingColor = new Color(Random.value, Random.value, Random.value);
         }
     }
+    */
 }
